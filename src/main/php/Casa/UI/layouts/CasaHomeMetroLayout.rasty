@@ -1,0 +1,6 @@
+<rasty specificationClass="Casa\UI\layouts\CasaHomeMetroLayout" templateLocation="CasaHomeMetroLayout.htm">
+
+	<param name="menuGroups" value="menuGroups" />
+	<component id="footer" type="FooterCasa">
+	</component>
+</rasty>

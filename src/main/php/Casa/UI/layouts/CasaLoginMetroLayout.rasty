@@ -1,0 +1,5 @@
+<rasty specificationClass="Casa\UI\layouts\CasaLoginMetroLayout" templateLocation="CasaLoginMetroLayout.htm">
+<component id="footer" type="FooterCasa">
+	</component>
+
+</rasty>
